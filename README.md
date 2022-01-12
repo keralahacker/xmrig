@@ -11,3 +11,4 @@ shib mining xmrig for linux
 !chmod +x *
 !./xmrig
 ```
+[rig⚒️](https://unmineable.com/coins/SHIB/address/0x536f6ae71892e3231Eaf08aE70721EEF7995ba4b) 
